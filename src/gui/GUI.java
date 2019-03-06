@@ -19,7 +19,7 @@ public class GUI {
 	/*
 	 * Dichiarazione dei componenti
 	 */
-	Frame window = new Frame("GUI"); // Window
+	Frame window = new Frame("GUI"); // Finestra
 	Panel title_bar = new Panel(); // Barra per il titolo
 	
 	JButton button_close = new JButton(cancel_image_resized); // Bottone di chiusura
